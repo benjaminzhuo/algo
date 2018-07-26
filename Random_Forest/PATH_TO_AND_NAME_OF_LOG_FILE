@@ -1,0 +1,1 @@
+|ERROR|2018-07-23 09:38:03,073|Socket returns an error: ('Connection aborted.', OSError("(10054, 'WSAECONNRESET')",)).
